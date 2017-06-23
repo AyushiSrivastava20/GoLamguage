@@ -15,7 +15,7 @@ func main() {
 	todos := []Todo{
 
 		{"learn go", false},
-		{"learn angular", false},
+		{"learn angular", true},
 		{"read examples", false},
 	}
 
